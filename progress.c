@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void progress_bar(loop)
+void progress_bar(int loop)
 {
     fflush(stdout);
 	if (loop == 0)
