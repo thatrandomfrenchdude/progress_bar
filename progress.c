@@ -47,7 +47,7 @@ void wait()
 int main(void)
 {
     int i;
-    int loop = 31;
+    int loop = 30;
     for (i = 0; i < loop; i++)
     {
         progress_bar(i);
