@@ -21,9 +21,9 @@ void wait()
         i++;
 }
 
-int main(void)
+int main(int argc, char** argv)
 {
-    int bar_length = 50;
+    int bar_length = atoi(argv[1]);
     while (1)
     {
         char bar[bar_length];
