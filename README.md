@@ -7,8 +7,8 @@ Feel free to send me any suggestions!
 The current version exists as a standalone piece of code, but I am planning to develop this into a header file.
 
 ## Versions
-Progress_Bar: The size of the progress bar is determined by a variable within the code.
-\nProgress_Bar_CL: The size of the progress bar is determined by a command-line argument.
+Progress_Bar: The size of the progress bar is determined by a variable within the code.<br />
+Progress_Bar_CL: The size of the progress bar is determined by a command-line argument.
 
 ## License
 [GNU](https://choosealicense.com/licenses/gpl-3.0/)
