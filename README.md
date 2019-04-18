@@ -8,7 +8,8 @@ To incorporate the progress bar into your project, specify the length and declar
 The current implementation uses a wait to simulate other code running and limit the execution speed of the progress bar. In actual use, the wait can be removed as additional lines of code will limit the execution speed.
 
 ## Existing Future Work
-The current version exists as a standalone piece of code, but I am planning to develop this into a header file.
+  - Header file implementation
+  - Reduced iteration step count for large loops
 
 ## Versions
 **Progress_Bar:** The size of the progress bar is determined by a variable within the code.<br />
